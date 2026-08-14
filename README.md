@@ -1,4 +1,4 @@
-Olá! Sou Yuri Fernando Santos 👋
+#Olá! Sou Yuri Fernando Santos 👋
 
 Sou estudante de Gestão da Tecnologia da Informação, construindo minha transição profissional para a área de tecnologia, com interesse especial em Inteligência Artificial, IA Generativa e Governança de IA.
 
@@ -6,7 +6,7 @@ Trago mais de 10 anos de experiência profissional com processos, organização 
 
 Este GitHub será utilizado para registrar minha evolução acadêmica e prática, reunindo projetos, estudos e experimentações desenvolvidos ao longo da minha formação.
 
-🎯 Direção de aprendizado
+##🎯 Direção de aprendizado
 
 Atualmente estou direcionando minha formação para:
 
