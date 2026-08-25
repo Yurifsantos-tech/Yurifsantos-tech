@@ -6,7 +6,7 @@ Trago mais de 10 anos de experiência profissional com processos, organização 
 
 Este GitHub será utilizado para registrar minha evolução acadêmica e prática, reunindo projetos, estudos e experimentações desenvolvidos ao longo da minha formação.
 
-##🎯 Direção de aprendizado
+## 🎯 Direção de aprendizado
 
 Atualmente estou direcionando minha formação para:
 
