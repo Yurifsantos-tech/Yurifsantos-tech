@@ -1,4 +1,4 @@
-#Olá! Sou Yuri Fernando Santos 👋
+# Olá! Sou Yuri Fernando 👋
 
 Sou estudante de Gestão da Tecnologia da Informação, construindo minha transição profissional para a área de tecnologia, com interesse especial em Inteligência Artificial, IA Generativa e Governança de IA.
 
