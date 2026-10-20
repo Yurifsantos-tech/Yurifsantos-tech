@@ -1,19 +1,33 @@
-# Olá! Sou Yuri Fernando 👋
+Olá! Sou Yuri Fernando 👋
 
-Sou estudante de Gestão da Tecnologia da Informação, construindo minha transição profissional para a área de tecnologia, com interesse especial em Inteligência Artificial, IA Generativa e Governança de IA.
+Sou estudante de Gestão da Tecnologia da Informação, em transição profissional para a área de tecnologia, com interesse em Python, Inteligência Artificial, automação e cibersegurança.
 
-Trago mais de 10 anos de experiência profissional com processos, organização de informações, documentação e relacionamento com diferentes profissionais e gestores, conhecimentos que agora busco integrar à minha formação em tecnologia.
+Tenho mais de 10 anos de experiência profissional com processos, organização de informações, documentação e relacionamento com diferentes profissionais e setores. Atualmente, busco integrar essa experiência aos conhecimentos que estou desenvolvendo em TI.
 
-Este GitHub será utilizado para registrar minha evolução acadêmica e prática, reunindo projetos, estudos e experimentações desenvolvidos ao longo da minha formação.
+💻 O que estou aprendendo e praticando
 
-## 🎯 Direção de aprendizado
+* Lógica de programação e algoritmos
+* Programação em Python e fundamentos da linguagem C
+* Desenvolvimento e documentação de projetos
+* Análise de logs e fundamentos de cibersegurança
+* Gestão Ágil e organização de processos
 
-Atualmente estou direcionando minha formação para:
+🚀 Projeto em destaque — SentinelAI
 
-* 🤖 Inteligência Artificial e IA Generativa
-* 🧠 Fundamentos de Machine Learning e Redes Neurais
-* 🚗 Sistemas Autônomos e aplicações de IA
-* 🛡️ Governança de IA, IA Responsável e proteção de dados
-* ⚙️ Gestão de TI e melhoria de processos
+Desenvolvi um MVP em Python para análise de logs SSH, com correlação de sessões, identificação de comportamentos por regras e geração de alertas explicativos.
 
-Meu objetivo é transformar esses estudos progressivamente em projetos práticos e documentá-los neste GitHub.
+O projeto foi executado com um conjunto público de 145.425 registros de honeypot SSH e possui testes automatizados.
+
+🔗 Conheça o SentinelAI
+
+🎯 Direção de aprendizado
+
+Meu objetivo é aprofundar progressivamente meus conhecimentos em:
+
+* Inteligência Artificial e IA Generativa
+* Machine Learning e Redes Neurais
+* Automação e sistemas autônomos
+* Governança de IA, IA Responsável e proteção de dados
+* Gestão de TI e melhoria de processos
+
+Utilizo este GitHub para documentar minha evolução acadêmica, compartilhar projetos e demonstrar, na prática, os conhecimentos que venho adquirindo.
