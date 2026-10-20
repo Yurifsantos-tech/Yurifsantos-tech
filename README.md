@@ -1,10 +1,10 @@
-Olá! Sou Yuri Fernando 👋
+# Olá! Sou Yuri Fernando 👋
 
 Sou estudante de Gestão da Tecnologia da Informação, em transição profissional para a área de tecnologia, com interesse em Python, Inteligência Artificial, automação e cibersegurança.
 
 Tenho mais de 10 anos de experiência profissional com processos, organização de informações, documentação e relacionamento com diferentes profissionais e setores. Atualmente, busco integrar essa experiência aos conhecimentos que estou desenvolvendo em TI.
 
-💻 O que estou aprendendo e praticando
+## 💻 O que estou aprendendo e praticando
 
 * Lógica de programação e algoritmos
 * Programação em Python e fundamentos da linguagem C
@@ -12,7 +12,7 @@ Tenho mais de 10 anos de experiência profissional com processos, organização 
 * Análise de logs e fundamentos de cibersegurança
 * Gestão Ágil e organização de processos
 
-🚀 Projeto em destaque — SentinelAI
+## 🚀 Projeto em destaque — SentinelAI
 
 Desenvolvi um MVP em Python para análise de logs SSH, com correlação de sessões, identificação de comportamentos por regras e geração de alertas explicativos.
 
